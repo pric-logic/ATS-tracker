@@ -5,4 +5,4 @@ upload JD
 upload Resume 
 get ATS score according to the job description 
 
-it is on streamlit
+it is on  streamlit
